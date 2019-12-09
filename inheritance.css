@@ -144,10 +144,10 @@
     border-radius: 50%;
   }
 
-  .left-eye {
-    top: 45%;
-    left: 25%;
-    background: black;
+  .left-eye{
+    top:45%;
+      left:25%;
+      background:black;
     width: 15%;
     height: 17%;
     border-radius: 50%;
